@@ -1,9 +1,9 @@
 # Your Project Title Here
-Name: Sanjaya Paudel
+Name: Ashok Thapa
 
-CollegeID: 160238
+CollegeID: 160098
 
-Batch: Jan 19A
+Batch: nov 22A
 
 Online Hospital Finder : Search the hospital according to the location, diseases and hospital name. Can view more details of the hospital only for logged in users get get recommendation of the most viewed hospitals. Un-registered members can search emergency purpose but cannot see whole information.
 
